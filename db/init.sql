@@ -3,7 +3,7 @@ drop table if exists heroes;
 
 create table if not exists heroes (
     id serial primary key,
-    name text unique not null,
+    name text not null unique,
     street_name text,
     age int,
     powers text,

@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stizout/sql-massive-mini.git"
+    "url": "git+https://github.com/tylercollier-devmtn/sql-massive-mini.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stizout/sql-massive-mini/issues"
+    "url": "https://github.com/tylercollier-devmtn/sql-massive-mini/issues"
   },
-  "homepage": "https://github.com/stizout/sql-massive-mini#readme",
+  "homepage": "https://github.com/tylercollier-devmtn/sql-massive-mini#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
